@@ -1,5 +1,5 @@
 # BackOfficeDemo
-Entity Framework ve Çok Katmanlı Mimari BackOffice Proje
+Entity Framework ve Çok Katmanlı Mimari BackOffice Örnek Proje
 
 Eğitim amaçlı ve geliştirmek için yapılmıştır.
 Örnek veriler için Northwind Db kullanılmıştır.
