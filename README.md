@@ -3,7 +3,7 @@ Entity Framework Code First ve Çok Katmanlı Mimari BackOffice Örnek Proje
 
 Eğitim amaçlı ve geliştirmek için yapılmıştır.
 Örnek veriler için Northwind Db kullanılmıştır.
-Projeyi açlıştırabilmek için aşağıdaki adımları uygulayınız.
+# Projeyi açlıştırabilmek için aşağıdaki adımları uygulayınız.
 
 1. Scripts klasöründeki Create_Northwind.sql dosyasını kullanarak Northwind Db oluşturunuz.
 2. Scripts klasöründeki CreateTable_Users.sql dosyasını kullarak Users tablosunu Northwind Db'sine ekleyiniz.
