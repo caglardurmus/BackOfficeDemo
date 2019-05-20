@@ -16,8 +16,8 @@ Eğitim amaçlı ve geliştirmek için yapılmıştır.
       -Ninject.3.3.4
 
 # Resimler
-<img src="https://raw.githubusercontent.com/caglardurmus/AdminPanelUI/master/demo.png" alt="demo" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/caglardurmus/BackOfficeDemo/master/demo.png" alt="demo" style="max-width:100%;">
 
-<img src="https://raw.githubusercontent.com/caglardurmus/AdminPanelUI/master/demo_2.png" alt="demo2" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/caglardurmus/BackOfficeDemo/master/demo_2.png" alt="demo2" style="max-width:100%;">
 
-<img src="https://raw.githubusercontent.com/caglardurmus/AdminPanelUI/master/demo_3.png" alt="demo3" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/caglardurmus/BackOfficeDemo/master/demo_3.png" alt="demo3" style="max-width:100%;">
