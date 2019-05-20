@@ -3,6 +3,7 @@ Entity Framework Code First ve Çok Katmanlı Mimari BackOffice Örnek Proje
 
 Eğitim amaçlı ve geliştirmek için yapılmıştır.
 Örnek veriler için Northwind Db kullanılmıştır.
+
 # Projeyi açlıştırabilmek için aşağıdaki adımları uygulayınız.
 
 1. Scripts klasöründeki Create_Northwind.sql dosyasını kullanarak Northwind Db oluşturunuz.
@@ -13,3 +14,10 @@ Eğitim amaçlı ve geliştirmek için yapılmıştır.
       -EntityFramework.6.2.0
       -FluentValidation.8.2.3
       -Ninject.3.3.4
+
+# Resimler
+<img src="https://raw.githubusercontent.com/caglardurmus/AdminPanelUI/master/demo.png" alt="demo" style="max-width:100%;">
+
+<img src="https://raw.githubusercontent.com/caglardurmus/AdminPanelUI/master/demo_2.png" alt="demo2" style="max-width:100%;">
+
+<img src="https://raw.githubusercontent.com/caglardurmus/AdminPanelUI/master/demo_3.png" alt="demo3" style="max-width:100%;">
