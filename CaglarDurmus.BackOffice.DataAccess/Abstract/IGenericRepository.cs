@@ -8,7 +8,8 @@ namespace CaglarDurmus.BackOffice.DataAccess.Abstract
 {
     public interface IGenericRepository<T> where T : class
     {
-        IEnumerable<T> GetAll();
+        T Get(Expression<Func<T, bool>> filter);
+        IEnumerable<T> GetAll(Expression<Func<T, bool>> filter = null);
         T GetById(object id);
         void Insert(T obj);
         void Update(T obj);
